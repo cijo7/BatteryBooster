@@ -1,0 +1,15 @@
+*.exe
+*.save
+*.layout
+*.depend
+*.stackdump
+*.cbp
+*.obj
+
+
+trash/*
+build/*
+cb/*
+assets/*
+dist/*
+

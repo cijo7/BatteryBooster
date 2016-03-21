@@ -1,0 +1,12 @@
+# Put a # to start a comment line
+
+# Battery Booster Configuration file
+
+#notification enabled
+notify true
+#icon will be shown
+icon true
+#sound is not played
+sound false
+#pop-up will be made in windows style
+Pop-Up-Mode windows

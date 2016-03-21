@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/app.h</itemPath>
+      <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/ids.h</itemPath>
+      <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/version.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+      <logicalFolder name="f1" displayName="Others" projectFiles="true">
+        <logicalFolder name="installer" displayName="installer" projectFiles="true">
+          <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/LICENSE.TXT</itemPath>
+          <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/config.txt</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+      <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/resource.rc</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="f1" displayName="dll" projectFiles="true">
+        <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/dll/managerInterface.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="modules" displayName="modules" projectFiles="true">
+        <logicalFolder name="f1" displayName="gui" projectFiles="true">
+          <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/gui/main.cpp</itemPath>
+        </logicalFolder>
+        <logicalFolder name="interface" displayName="interface" projectFiles="true">
+          <logicalFolder name="Definitions" displayName="Definitions" projectFiles="true">
+            <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_button.cpp</itemPath>
+            <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_displayWindows.cpp</itemPath>
+            <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_interfaceWindows.cpp</itemPath>
+            <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_textbox.cpp</itemPath>
+            <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_texture.cpp</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Include" displayName="Include" projectFiles="true">
+            <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/button.h</itemPath>
+            <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/textbox.h</itemPath>
+            <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/texture.h</itemPath>
+          </logicalFolder>
+          <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.cpp</itemPath>
+          <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="triggers" displayName="triggers" projectFiles="true">
+          <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/main.cpp</itemPath>
+          <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/trigger.cpp</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+      <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/app.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/.gitignore</itemPath>
+    <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/ReadMe.md</itemPath>
+    <itemPath>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/info.txt</itemPath>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>C:\Users\cijo\Documents\Sample Codes\cpp\Battery Booster</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>8</standard>
+          <preprocessorList>
+            <Elem>DEBUG_MODE</Elem>
+          </preprocessorList>
+          <warningLevel>2</warningLevel>
+        </ccTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/battery_booster</output>
+          <linkerAddLib>
+            <pElem>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/lib</pElem>
+          </linkerAddLib>
+          <additionalDep>resource.o</additionalDep>
+          <linkerLibItems>
+            <linkerOptionItem>resource.o</linkerOptionItem>
+            <linkerLibLibItem>manager</linkerLibLibItem>
+          </linkerLibItems>
+          <commandLine>-lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/.gitignore"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/ReadMe.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/app.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/ids.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/info.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/LICENSE.TXT"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/config.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/app.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/dll/managerInterface.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/gui/main.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_button.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_displayWindows.cpp"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_interfaceWindows.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_textbox.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_texture.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/button.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/textbox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/texture.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/main.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/trigger.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/version.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/resource.rc"
+            ex="false"
+            tool="3"
+            flavor2="0">
+        <customTool>
+          <customToolCommandline>windres.exe resource.rc resource.o</customToolCommandline>
+          <customToolOutputs>resource.o</customToolOutputs>
+          <customToolAdditionalDep>include/ids.h</customToolAdditionalDep>
+        </customTool>
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <standard>8</standard>
+          <commandLine>-mwindows</commandLine>
+          <preprocessorList>
+            <Elem>RELEASE_MODE</Elem>
+          </preprocessorList>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/battery_bg</output>
+          <linkerAddLib>
+            <pElem>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/lib</pElem>
+          </linkerAddLib>
+          <stripSymbols>true</stripSymbols>
+          <additionalDep>resource.o</additionalDep>
+          <linkerLibItems>
+            <linkerOptionItem>resource.o</linkerOptionItem>
+            <linkerLibLibItem>manager</linkerLibLibItem>
+          </linkerLibItems>
+          <commandLine>-lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/.gitignore"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/ReadMe.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/app.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/ids.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/info.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/LICENSE.TXT"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/config.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/app.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/dll/managerInterface.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/gui/main.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_button.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_displayWindows.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_interfaceWindows.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_textbox.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_texture.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/button.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/textbox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/texture.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/main.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/trigger.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/version.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/resource.rc"
+            ex="false"
+            tool="3"
+            flavor2="0">
+        <customTool>
+          <customToolCommandline>windres.exe resource.rc resource.o</customToolCommandline>
+          <customToolOutputs>build/resource.o</customToolOutputs>
+          <customToolAdditionalDep>include/ids.h</customToolAdditionalDep>
+        </customTool>
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Uninstall_Trigger" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <commandLine>-std=c++11</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/triggerUninstall</output>
+        </linkerTool>
+      </compileType>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/.gitignore"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/ReadMe.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/app.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/ids.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/info.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/LICENSE.TXT"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/config.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/app.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/dll/managerInterface.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/gui/main.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_button.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_displayWindows.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_interfaceWindows.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_textbox.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_texture.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/button.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/textbox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/texture.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/main.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/trigger.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/version.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/resource.rc"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Library" type="2">
+      <toolsSet>
+        <compilerSet>Cygwin_4.x|Cygwin_4.x</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <standard>8</standard>
+        </ccTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/manager.${CND_DLIB_EXT}</output>
+          <linkerAddLib>
+            <pElem>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/lib</pElem>
+          </linkerAddLib>
+          <commandLine>-lSDL2 -lSDL2_image -lSDL2_ttf</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/.gitignore"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/ReadMe.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/app.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/ids.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/info.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/LICENSE.TXT"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/config.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/app.cpp"
+            ex="true"
+            tool="3"
+            flavor2="9">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/dll/managerInterface.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/gui/main.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_button.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_displayWindows.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_interfaceWindows.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_textbox.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_texture.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/button.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/textbox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/texture.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/main.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/trigger.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/version.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/resource.rc"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Test" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <commandLine>-std=c++11</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/triggerUninstall</output>
+          <linkerAddLib>
+            <pElem>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/lib</pElem>
+          </linkerAddLib>
+          <commandLine>-lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/.gitignore"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/ReadMe.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/app.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/ids.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/info.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/LICENSE.TXT"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/config.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/app.cpp"
+            ex="false"
+            tool="3"
+            flavor2="9">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/dll/managerInterface.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/gui/main.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_button.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_displayWindows.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_interfaceWindows.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_textbox.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_texture.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/button.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/textbox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/texture.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/main.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/trigger.cpp"
+            ex="false"
+            tool="3"
+            flavor2="9">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/version.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/resource.rc"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Interface" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <standard>8</standard>
+          <commandLine>-mwindows</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/battery_booster</output>
+          <linkerAddLib>
+            <pElem>C:/Users/cijo/Documents/Codes/cpp/Battery Booster/lib</pElem>
+          </linkerAddLib>
+          <additionalDep>resource.o</additionalDep>
+          <linkerLibItems>
+            <linkerOptionItem>resource.o</linkerOptionItem>
+            <linkerLibLibItem>manager</linkerLibLibItem>
+          </linkerLibItems>
+          <commandLine>-lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/.gitignore"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/ReadMe.md"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/app.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/ids.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/include/info.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/LICENSE.TXT"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/installer/config.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/app.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/dll/managerInterface.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/gui/main.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_button.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_displayWindows.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_interfaceWindows.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_textbox.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Definitions/class_texture.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/button.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/textbox.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/Include/texture.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/interface/interface.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/main.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/triggers/trigger.cpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/modules/version.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/cijo/Documents/Codes/cpp/Battery Booster/resource.rc"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

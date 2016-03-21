@@ -1,0 +1,165 @@
+THIS SOFTWARE IS PROVIDED FREE OF COST TO ANY ONE ATTAINING ITS COPY TO USE IT FOR THEIR NEEDS.
+
+THIS SOFTWARE IS PROVIDED WITH NO WARRANTIES AND LIABILITIES ON DEVELOPERS OF ANY DAMAGE DUE TO THE USE OF THIS SOFTWARE.
+ USERS ARE SOLELY RESPONSIBLE FOR ALL THE CONSEQUENCES RESULTING FROM THIS SOFTWARE.
+
+YOU ARE ALLOWED TO USE THIS SOFTWARE ONLY IF YOU AGREE TO THESE TERMS.
+
+Battery Booster End User License Agreement
+
+IMPORTANT NOTICE:  CAREFULLY READ AND BE SURE YOU UNDERSTAND THIS BEFORE YOU ACCEPT ITS PROVISIONS.
+ CS Inc. IS WILLING TO LICENSE THE SOFTWARE (AS DEFINED BELOW) TO YOU AS A CONSUMER OR AS AN ENTREPRENEUR (�YOU�) ONLY IF YOU ACCEPT ALL OF THE
+ PROVISIONS OF THIS DOCUMENT AND ITS RELATED TERMS AND CONDITIONS.  BY CLICKING THE �I AGREE� OR �YES� BUTTON, BY LOADING THE SOFTWARE OR BY OTHERWISE
+ INDICATING ASSENT, YOU ACCEPT THIS DOCUMENT AND THIS DOCUMENT WILL BECOME A LEGAL AND ENFORCEABLE CONTRACT BETWEEN CS Inc. AND YOU INDIVIDUALLY,
+ IF YOU ARE A CONSUMER OR BETWEEN CS Inc. AND YOUR BUSINESS ENTITY, IF YOU ARE AN ENTREPRENEUR.  IF YOU DO NOT AGREE TO THESE PROVISIONS,
+ THEN CLICK �CANCEL�, �NO� OR �CLOSE WINDOW�. 
+TERMS
+
+This Document concerns CS Inc.�s grant of a license to Software and any related user Documentation, to you. This Document shall also apply to
+ all Updates and Upgrades, insofar as CS Inc. provides you with Updates and/or Upgrades after installation of the Software.  
+
+1. Definitions  
+
+1.1. Computer - means any device that is able to process data with the assistance of a programmable calculation specification.
+  
+1.2. Consumer - means any natural person who is provided with any Software from CS Inc. for personal or for use involving his/her family.
+
+1.3. Customer - means a Consumer and/or Entrepreneur.
+
+1.4. Documentation - means written materials, in printed or electronic form, describing the features of the Software and/or Updates and Upgrades
+ and that are designed to assist you in effectively utilizing the Software, Updates and/or Upgrades.  Such Documentation does not vary the terms
+ of this Document or its related Terms and Conditions.
+
+1.5. Entrepreneur - means any natural person, legal entity or partnership, having legal capacity that is not engaged in personal or familial usage
+ in ordering or receiving Software of CS Inc. while performing its commercial or independent professional or other work.
+
+1.6. Freeware - means any Software that is provided to the Customer free of charge.
+
+1.7. Multiple Use - means simultaneous storage, simultaneous retention and any other simultaneous use of Software on several Computers.
+
+1.8.  Reseller - means a customer to whom Software is provided expressly for the purpose of resale.
+
+1.9. Software - means CS Inc.�s computer programs in their object code format, including any and all Updates and Upgrades thereto that 
+CS Inc. makes available and for which CS Inc. has granted a license to you.
+
+1.10. Terms and Conditions - mean the Standard Terms and Conditions of Business of CS Inc. See www.csapps.tk. As noted below
+, these Terms and Conditions apply in addition to, and supplement the provisions of, this Document.
+
+1.11. Updates and Upgrades - mean the updating of the Software.  Classification of the updating as an Update or Upgrade is at CS Inc.�s sole discretion.
+
+1.12. Update Service -means the ongoing updating of Software through Updates and/or Upgrades and the provision of such Updates and Upgrades to 
+you by CS Inc..  Some Software requires the Update Service for functional use.  CS Inc. may at its sole discretion render services under its 
+Update Service as an Update or Upgrade.
+
+2. Ownership Rights  
+
+The Software is protected by international copyright laws, treaties and other laws.  CS Inc. and its licensor's own and retain all right,
+ title and interest in and to the Software, including all copyrights, patents, trade secret rights, trademarks and other intellectual
+ property rights. This Document does not transfer to you any title to or in the Software. You do not acquire any rights to the 
+Software except as specified in Sections 3 and 6, below.
+
+3. License Grant
+
+3.1. CS Inc. hereby grants to you a non-exclusive, non-transferable License to use the Software subject to any restrictions contained 
+herein or in the Terms and Conditions.
+
+3.2. In addition:
+
+3.2.1. As noted, the Terms and Conditions apply to this Document. In the case of a conflict between this Document and the Terms and Conditions,
+ the Terms and Conditions shall apply.  
+
+3.2.2. For Software for which Updates and Upgrades are provided by CS Inc., your License includes the right to receive and use Upgrades and 
+Updates for the License Term.   For Software for which no Updates or Upgrades are available from CS Inc., you may use only the version of the
+ Software for which you have paid for the License Term.  
+
+4. Provisions for Use  
+
+4.1. You are expressly prohibited from editing, revising, changing or otherwise modifying or seeking to decompile the Software�s object code
+ or to attempt to reverse engineer or otherwise generate source code versions therefrom (hereinafter referred to as �Decompilation�), unless 
+with written approval from CS Inc. or if is explicitly permitted pursuant to mandatory legal provisions such as
+ Sections 69 c No. 3, 69 d (2) and (3) and Section 69 e of the German Copyright Act (Urhebergesetz). If you desire to engage in Decompilation 
+for the purpose of achieving inter operability, you undertake to contact CS Inc. at support@CS Inc..com prior to any attempt at Decompilation of 
+the Software in order to obtain the information necessary for such inter operability. If CS Inc. provides this information without undue delay, 
+you are not entitled to engage in the Decompilation of the Software in any way. 
+
+4.2. Software for which no special Licenses for Multiple Use are available according to the relevant product information is restricted to use 
+on one Computer by you. For this purpose, you may use any available Computer that meets the system requirements and for which the License was 
+granted. Should you change the Computer, the Software must be deleted from the Computer on which the Software was previously installed before 
+the re installation of the Software on a different Computer. For Software whose product information provides special Licenses for Multiple Use, 
+Multiple Use shall be permissible only if, and to the extent that, you purchased and were granted the relevant type or number of Licenses by CS Inc..
+
+4.3. You may not, nor may you permit another person to:
+
+4.3.1. Copy (other than once for backup purposes) sublicense, rent, loan, or lease any portion of the Software.  If you wish to use the Software
+ on another computer, you must delete the program from your current computer before installing it on the other computer;
+
+4.3.2. Modify, or create derivative works based upon, the Software, in whole or in part. 
+
+NOTE:  TO DO SO VOIDS ANY AND ALL WARRANTIES THAT MAY APPLY;  
+
+4.3.3. Remove any proprietary notices, labels, or copy protection features from the Software;  
+
+4.3.4. Use the Software in special risk areas that require error-free, permanent operation of relevant systems and in which the failure of the 
+Software may result in a direct risk for life, body or health or in substantial damages to property or the environment (high risk activities and
+ high availability activities, including but not limited to the operation of nuclear facilities, weapon systems, aviation navigation or communication
+ systems, life support systems and equipment, machine and production processes of pharmaceuticals and food production). CS Inc. does not warrant or 
+guarantee that the Software is fit for use in special risk areas.  
+
+4.3.5. CS Inc. reserves all rights to bring an action to prohibit or stop any unauthorized use of Software by you, including but not limited to, 
+claims for injunctive relief and damages. unauthorized use by you may lead to criminal prosecution under the relevant laws.  The provisions of this 
+section 4.3.5 concerning reproduction and disclosure shall apply similarly for the user handbooks and other documents pertaining to the Software 
+provided by CS Inc.. 
+
+5. Your obligations
+
+The setup of a functional hardware and software environment for the Software shall be the solely in your responsibility. The same shall apply to
+ regular data backup within your EDP system.
+
+6. WARRANTY DISCLAIMER 
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, ALL SOFTWARE IS PROVIDED �AS IS� AND CS Inc. MAKES NO WARRANTY AS TO ITS USE OR PERFORMANCE.
+  CS Inc. MAKES NO WARRANTY OF ANY KIND AND EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES OF ANY KIND WHETHER EXPRESS, IMPLIED, OR STATUTORY 
+INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE.  CS Inc. ALSO EXPRESSLY DISCLAIMS ANY AND ALL 
+WARRANTIES RELATING TO NON-INFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, SATISFACTORY QUALITY, OR ABILITY TO INTEGRATE THE SOFTWARE
+ WITH OTHER PRODUCTS. YOU ASSUME RESPONSIBILITY FOR SELECTING THE SOFTWARE TO ACHIEVE YOUR INTENDED RESULTS, AND FOR THE INSTALLATION OF, 
+USE OF, AND RESULTS OBTAINED FROM, THE SOFTWARE. WITHOUT LIMITING THE FOREGOING, CS Inc. MAKES NO WARRANTY THAT THE SOFTWARE WILL PROTECT 
+AGAINST ALL POSSIBLE THREATS, BE ERROR-FREE OR FREE FROM INTERRUPTIONS OR OTHER FAILURES, OR THAT THE SOFTWARE WILL MEET YOUR SPECIFIC REQUIREMENTS.
+
+7. Limitation of Liability 
+
+UNDER NO CIRCUMSTANCES SHALL CS Inc. BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR DAMAGES FROM LOST PROFITS, LOSS OF GOODWILL, OR ANY 
+INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR NEGLIGENCE OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, 
+DAMAGES FOR WORK STOPPAGE, LOSS OF DATA, COMPUTER FAILURE OR MALFUNCTION, OR FOR ANY OTHER DAMAGE OR LOSS.  IN NO EVENT SHALL CS Inc. 
+BE LIABLE FOR ANY DAMAGES IN EXCESS OF THE LICENSE FEE PAID BY YOU EVEN IF CS Inc. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+
+8. Privacy
+
+By entering into this Document, you agree that the CS Inc. Privacy Policy, as it exists at any relevant time, shall be applicable to you.
+  See www.csapps.tk .
+
+9. Governing Law and venue
+Laws in India are applicable
+
+10. Miscellaneous
+
+10.1. This Document and the Terms and Conditions, as defined above and incorporated herein, set forth all of your rights to use the Software
+ and make up the entire agreement between the parties.  This Document and the Terms and Conditions supersede any other communications,
+ representations or advertising relating to the Software that is the subject of this Document.  
+
+10.2. No provision hereof shall be deemed waived unless there is a written waiver signed by an authorized CS Inc. representative.  
+
+10.3. If any provision of this Document or the related Terms and Conditions is held invalid, the remainder of this Document and Terms
+ and Conditions shall continue in full force and effect. To the extent that an otherwise invalid provision can be construed so as to
+ be valid, that provision shall be so construed.
+
+10.4. All rights not expressly set forth hereunder are reserved by CS Inc..
+
+10.5. The descriptive headings in this Document have been inserted for convenience and shall not limit or otherwise affect the construction 
+or interpretation of this Document.
+
+10.6. You may not assign your rights under this Document without the express written permission of CS Inc..
+
+
+CS Inc.
+
+1st February, 2015

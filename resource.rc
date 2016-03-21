@@ -1,0 +1,3 @@
+#include "include/ids.h"
+
+AppIcon ICON "installer/icon.ico"
